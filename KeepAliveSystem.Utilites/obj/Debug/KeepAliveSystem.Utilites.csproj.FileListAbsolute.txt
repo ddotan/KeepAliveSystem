@@ -1,0 +1,8 @@
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.Utilites\bin\Debug\KeepAliveSystem.Utilites.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.Utilites\bin\Debug\KeepAliveSystem.Utilites.pdb
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.Utilites\obj\Debug\KeepAliveSystem.Utilites.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.Utilites\obj\Debug\KeepAliveSystem.Utilites.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\KeepAliveSystem.Utilites\bin\Debug\KeepAliveSystem.Utilites.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\KeepAliveSystem.Utilites\bin\Debug\KeepAliveSystem.Utilites.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\KeepAliveSystem.Utilites\obj\Debug\KeepAliveSystem.Utilites.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\KeepAliveSystem.Utilites\obj\Debug\KeepAliveSystem.Utilites.pdb

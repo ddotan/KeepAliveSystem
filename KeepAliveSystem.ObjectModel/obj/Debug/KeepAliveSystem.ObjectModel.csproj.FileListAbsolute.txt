@@ -1,0 +1,9 @@
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.ObjectModel\bin\Debug\KeepAliveSystem.ObjectModel.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.ObjectModel\bin\Debug\KeepAliveSystem.ObjectModel.pdb
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.ObjectModel\obj\Debug\KeepAliveSystem.ObjectModel.csprojResolveAssemblyReference.cache
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.ObjectModel\obj\Debug\KeepAliveSystem.ObjectModel.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\KeepAliveSystem.ObjectModel\obj\Debug\KeepAliveSystem.ObjectModel.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\KeepAliveSystem.ObjectModel\bin\Debug\KeepAliveSystem.ObjectModel.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\KeepAliveSystem.ObjectModel\bin\Debug\KeepAliveSystem.ObjectModel.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\KeepAliveSystem.ObjectModel\obj\Debug\KeepAliveSystem.ObjectModel.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\KeepAliveSystem.ObjectModel\obj\Debug\KeepAliveSystem.ObjectModel.pdb

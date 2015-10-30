@@ -1,0 +1,14 @@
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\ServiceChecker.Utilites.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\ServiceChecker.Utilites.pdb
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.pdb
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.csprojResolveAssemblyReference.cache
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\ServiceChecker.Utilites.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\ServiceChecker.Utilites.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.csprojResolveAssemblyReference.cache
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.pdb

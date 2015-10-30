@@ -1,0 +1,16 @@
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISChecker.Utilites\bin\Debug\IISChecker.Utilites.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISChecker.Utilites\bin\Debug\IISChecker.Utilites.pdb
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.pdb
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.csprojResolveAssemblyReference.cache
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISChecker.Utilites\bin\Debug\Microsoft.Web.Administration.dll
+C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\bin\Debug\IISChecker.Utilites.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\bin\Debug\IISChecker.Utilites.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\bin\Debug\Microsoft.Web.Administration.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.pdb
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.csprojResolveAssemblyReference.cache
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.dll
+\\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.pdb
