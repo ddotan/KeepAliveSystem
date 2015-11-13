@@ -26,7 +26,7 @@ namespace KeepAliveSystem.Utilites
         private static void writeInColor(string i_Text, ConsoleColor i_ConsoleColor)
         {
             Console.ForegroundColor = i_ConsoleColor;
-            Console.WriteLine(i_Text);
+            Console.WriteLine(DateTime.Now.ToString() + " : " +i_Text);
             Console.ResetColor();
         }
     }

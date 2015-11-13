@@ -59,6 +59,10 @@
       <Project>{9f32e175-3cf6-4c91-91b8-9141d472f4cd}</Project>
       <Name>KeepAliveSystem.ObjectModel</Name>
     </ProjectReference>
+    <ProjectReference Include="..\KeepAliveSystem.Utilites\KeepAliveSystem.Utilites.csproj">
+      <Project>{36539421-0026-4cd4-a57b-7e7ef3931c18}</Project>
+      <Name>KeepAliveSystem.Utilites</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ServiceChecker.BusinessLogic\ServiceChecker.BusinessLogic.csproj">
       <Project>{7303bb21-e14f-4245-9c33-0ee33834525f}</Project>
       <Name>ServiceChecker.BusinessLogic</Name>
