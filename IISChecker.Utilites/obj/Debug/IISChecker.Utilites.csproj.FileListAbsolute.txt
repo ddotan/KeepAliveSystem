@@ -14,3 +14,11 @@ C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISCheck
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.csprojResolveAssemblyReference.cache
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.dll
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.pdb
+C:\Intel\KeepAliveSystem\IISChecker.Utilites\bin\Debug\IISChecker.Utilites.dll
+C:\Intel\KeepAliveSystem\IISChecker.Utilites\bin\Debug\IISChecker.Utilites.pdb
+C:\Intel\KeepAliveSystem\IISChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.dll
+C:\Intel\KeepAliveSystem\IISChecker.Utilites\bin\Debug\Microsoft.Web.Administration.dll
+C:\Intel\KeepAliveSystem\IISChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.pdb
+C:\Intel\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.csprojResolveAssemblyReference.cache
+C:\Intel\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.dll
+C:\Intel\KeepAliveSystem\IISChecker.Utilites\obj\Debug\IISChecker.Utilites.pdb

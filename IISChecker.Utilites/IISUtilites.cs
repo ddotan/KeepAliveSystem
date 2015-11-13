@@ -63,7 +63,7 @@ namespace IISChecker.Utilites
     
         public IISUtilites()
         {
-            m_ServiceStartTimeInteval = int.Parse(ConfigurationManager.AppSettings["WaitIntervalForServiceToStart"]);
+            m_ServiceStartTimeInteval = int.Parse(ConfigurationManager.AppSettings["WaitForServiceToStartSeconds"]);
         }
         public void StartService(string i_IISSite)
         {

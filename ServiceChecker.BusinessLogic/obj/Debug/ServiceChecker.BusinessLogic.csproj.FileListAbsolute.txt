@@ -20,3 +20,14 @@ C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceC
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.BusinessLogic\obj\Debug\ServiceChecker.BusinessLogic.csprojResolveAssemblyReference.cache
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.BusinessLogic\obj\Debug\ServiceChecker.BusinessLogic.dll
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.BusinessLogic\obj\Debug\ServiceChecker.BusinessLogic.pdb
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\bin\Debug\ServiceChecker.BusinessLogic.dll
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\bin\Debug\ServiceChecker.BusinessLogic.pdb
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\bin\Debug\KeepAliveSystem.ObjectModel.dll
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\bin\Debug\KeepAliveSystem.Utilites.dll
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\bin\Debug\ServiceChecker.Utilites.dll
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\bin\Debug\KeepAliveSystem.ObjectModel.pdb
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\bin\Debug\KeepAliveSystem.Utilites.pdb
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\bin\Debug\ServiceChecker.Utilites.pdb
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\obj\Debug\ServiceChecker.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\obj\Debug\ServiceChecker.BusinessLogic.dll
+C:\Intel\KeepAliveSystem\ServiceChecker.BusinessLogic\obj\Debug\ServiceChecker.BusinessLogic.pdb

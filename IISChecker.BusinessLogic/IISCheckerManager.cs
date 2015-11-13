@@ -13,7 +13,7 @@ namespace IISChecker.BusinessLogic
     {
         private List<string> m_IISList;
         private IISCheckerEngine m_Checker;
-        private int m_WaitBetweenChecksInterval;
+        private int m_WaitBetweenCheckSeconds;
         public IISCheckerManager()
         {
             m_IISList = getProcess();
@@ -22,13 +22,13 @@ namespace IISChecker.BusinessLogic
                 Console.WriteLine("Service checker listening to IIS named : " + str);
             }
             m_Checker = new IISCheckerEngine(m_IISList);
-            m_WaitBetweenChecksInterval = int.Parse(ConfigurationManager.AppSettings["WaitBetweenChecksInterval"]);
+            m_WaitBetweenCheckSeconds = int.Parse(ConfigurationManager.AppSettings["WaitBetweenCheckSeconds"]);
         }
         public void Start()
         {
             if (m_IISList.Count == 1 && string.IsNullOrEmpty(m_IISList[0]) )
             {
-                Console.WriteLine("[IIS] appconfig list is empty, shutting down");
+                Console.WriteLine("[IIS] List is empty, shutting down");
                 return;
             }
             while (true)

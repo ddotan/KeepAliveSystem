@@ -21,3 +21,14 @@ C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\IISCheck
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.BusinessLogic\obj\Debug\IISChecker.BusinessLogic.csprojResolveAssemblyReference.cache
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.BusinessLogic\obj\Debug\IISChecker.BusinessLogic.dll
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\IISChecker.BusinessLogic\obj\Debug\IISChecker.BusinessLogic.pdb
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\bin\Debug\IISChecker.BusinessLogic.dll
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\bin\Debug\IISChecker.BusinessLogic.pdb
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\bin\Debug\IISChecker.Utilites.dll
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\bin\Debug\KeepAliveSystem.ObjectModel.dll
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\bin\Debug\KeepAliveSystem.Utilites.dll
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\bin\Debug\IISChecker.Utilites.pdb
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\bin\Debug\KeepAliveSystem.ObjectModel.pdb
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\bin\Debug\KeepAliveSystem.Utilites.pdb
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\obj\Debug\IISChecker.BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\obj\Debug\IISChecker.BusinessLogic.dll
+C:\Intel\KeepAliveSystem\IISChecker.BusinessLogic\obj\Debug\IISChecker.BusinessLogic.pdb

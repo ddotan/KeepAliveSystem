@@ -12,3 +12,10 @@ C:\Users\dotan.douek\Documents\GitHub\Keep-alive-system\KeepAliveSystem\ServiceC
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.csprojResolveAssemblyReference.cache
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.dll
 \\doctor\Access-Team\Tech-Support\Members\DotanDouek\Development\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.pdb
+C:\Intel\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\ServiceChecker.Utilites.dll
+C:\Intel\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\ServiceChecker.Utilites.pdb
+C:\Intel\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.dll
+C:\Intel\KeepAliveSystem\ServiceChecker.Utilites\bin\Debug\KeepAliveSystem.Utilites.pdb
+C:\Intel\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.csprojResolveAssemblyReference.cache
+C:\Intel\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.dll
+C:\Intel\KeepAliveSystem\ServiceChecker.Utilites\obj\Debug\ServiceChecker.Utilites.pdb
